@@ -1,0 +1,7 @@
+Needs to be run from the script folder, e.g.
+cd  /home/z3457920/hdrive/repos/unswrds/script/
+/home/z3457920/hdrive/repos/unswrds/script/upload.sh /srv/ccrc/data49/z3457920/RawData/NEMO/now_cordex24_eastaus8_png8_BMJv2_BILAP_ALL/ /UNSW_RDS/D0000033/ChrisBullRDS_z3457920/20170113_EACnowClimateChange01/
+
+Also, doesn't create dest' dirs by default (do on web interface)
+
+See: /home/z3457920/hdrive/repos/unswrds/script/README.txt
